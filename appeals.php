@@ -1,4 +1,4 @@
-<base href="../../" />
+
 This is a list of banned users who have filed ban appeals.
 <table>
 <tr>
